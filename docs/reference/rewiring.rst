@@ -1,0 +1,5 @@
+rewiring
+=============================
+
+.. automodule:: rewiring
+    :members:
